@@ -8,7 +8,7 @@ You are welcome to contribute with more items provided below.
 
 * If you are targeting legacy JavaScript engine with those ES5 methods, you can use [es5-shim](https://github.com/es-shims/es5-shim)
 
-* Please note that, the examples used below are just showing you the native alternative of performing certain tasks. For some of the functions, Lodash provides you more options than native built-ins. This list is not a 1:1 comparison.
+* Please note that the examples used below are just showing you the native alternative of performing certain tasks. For some of the functions, Lodash provides you with more options than native built-ins. This list is not a 1:1 comparison.
 
 * Please send a PR if you want to add or modify the code. No need to open an issue unless it's something big and you want to discuss.
 
